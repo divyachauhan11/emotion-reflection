@@ -1,3 +1,3 @@
 download all the file 
 open the terminal 
-run the command npx start
+run the command npm start
